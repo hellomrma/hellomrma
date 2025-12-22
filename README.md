@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellomrma&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellomrma&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=hellomrma&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellomrma&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
 </div>
 
 ### 기술 스택
