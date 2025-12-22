@@ -1,10 +1,3 @@
-# Hi there 👋
-
-<!-- 헤더 배지 -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&size=30" alt="Typing SVG" />
-</div>
-
 <!-- 소개 -->
 <div align="center">
   <h3>안녕하세요! 👋</h3>
@@ -21,12 +14,6 @@
   
   <!-- 언어 통계 -->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellomrma&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
-  <!-- 기여 그래프 -->
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=hellomrma&theme=radical&hide_border=false)
-  
-  <!-- 트로피 -->
-  ![trophy](https://github-profile-trophy.vercel.app/?username=hellomrma&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   
 </div>
 
@@ -133,15 +120,6 @@
     [전체 저장소 보기 →](https://github.com/hellomrma?tab=repositories)
     
   </details>
-  
-</div>
-
-<!-- 방문자 카운터 -->
-<div align="center">
-  
-  ### 👀 방문자 수
-  
-  ![Visitor Count](https://profile-counter.glitch.me/hellomrma/count.svg)
   
 </div>
 
