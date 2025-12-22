@@ -123,15 +123,6 @@
   
 </div>
 
-<!-- 랜덤 명언 -->
-<div align="center">
-  
-  ### 💡 오늘의 명언
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-</div>
-
 <!-- 소셜 링크 -->
 <div align="center">
   
@@ -146,59 +137,11 @@
   
 </div>
 
-<!-- 기여 뱀 -->
-<div align="center">
-  
-  ### 🐍 기여 뱀
-  
-  ![snake gif](https://github.com/hellomrma/hellomrma/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
 <!-- 통계 요약 -->
 <div align="center">
   
   ### 📈 통계 요약
   
   ![GitHub metrics](https://metrics.lecoq.io/hellomrma?template=classic&config.timezone=Asia%2FSeoul)
-  
-</div>
-
-<!-- 재미있는 요소들 -->
-<div align="center">
-  
-  ### ⚡ About Me
-  
-  - 🔭 현재 작업 중: Front End 개발 및 Unity 게임 개발
-  - 🌱 현재 학습 중: TypeScript, Remix Framework, Unity C#
-  - 👯 협업을 찾고 있습니다: 웹 개발 및 게임 개발 프로젝트
-  - 💬 질문 주시면 답변드립니다: HTML, CSS, JavaScript, Vue.js, Unity
-  - 📫 연락 방법: hellomrma@gmail.com 또는 소셜 미디어
-  - ⚡ 재미있는 사실: 프론트엔드 개발과 Unity 게임 개발을 병행하고 있습니다
-  
-</div>
-
-<!-- 커스텀 이모지 -->
-<div align="center">
-  
-  ### 🎨 커스텀 섹션
-  
-  ```
-  💻 Front End Developer
-  🚀 HTML, CSS, JavaScript 전문
-  🎮 Unity 게임 개발도 함께 진행 중
-  📚 학습한 내용을 Playground 프로젝트로 정리합니다
-  ```
-  
-</div>
-
-<!-- 하단 -->
-<div align="center">
-  
-  ---
-  
-  <img src="https://komarev.com/ghpvc/?username=hellomrma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  
-  ⭐ 이 프로필이 마음에 드시면 Star를 눌러주세요!
   
 </div>
