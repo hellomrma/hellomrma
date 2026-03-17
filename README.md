@@ -1,31 +1,31 @@
 <div align="center">
-  <h1>Noah Ma (GwangSeub) 👋</h1>
-  <h3>Frontend Developer | TypeScript · Vue.js · Remix</h3>
+  <h1>가나다라마박사 (GwangSeub) 👋</h1>
+  <h3>Frontend Developer | HTML · CSS · JavaScript</h3>
   <p>📍 대한민국 | 🏢 Hivelab</p>
 </div>
 
 ### 👨‍💻 소개
 
-안녕하세요, 프론트엔드 개발자 Noah입니다.
-사용자 경험을 중심으로 생각하며, 견고하고 유지보수하기 좋은 웹을 만드는 것을 지향합니다.
+안녕하세요, 프론트엔드 개발자 가나다라마박사입니다.
+HTML, CSS, JavaScript를 기반으로 웹을 만들고, Next.js · Vue.js 등 프레임워크로 확장해 나갑니다.
 
-- 🔭 **하는 일**: TypeScript, Vue.js, Remix 기반의 프론트엔드 개발
-- 🌱 **관심 분야**: 모던 웹 프레임워크, 성능 최적화, 접근성
+- 🔭 **하는 일**: HTML/CSS/JS 기반 프론트엔드 개발, 프레임워크(Next.js, Vue.js) 활용
+- 🌱 **관심 분야**: 웹 표준, 성능 최적화, 접근성
 - 💼 **소속**: Hivelab 프론트엔드 개발
 - 🎮 **취미**: Unity로 게임 만들기
 
 ### 💻 기술 스택
 
-**언어**
-- TypeScript
-- JavaScript
+**코어**
 - HTML5
 - CSS3
+- JavaScript
 
-**프레임워크 및 라이브러리**
+**확장**
+- TypeScript
 - Vue.js
 - Nuxt.js
-- Remix
+- Next.js
 
 **도구**
 - Git
@@ -33,7 +33,6 @@
 
 ### 🚀 주요 프로젝트
 
-- **[remix-framework](https://github.com/hellomrma/remix-framework)** - Remix 기반 웹 프로젝트 (TypeScript)
 - **[korea-holiday](https://github.com/hellomrma/korea-holiday)** - 한국 공휴일 데이터 라이브러리 (TypeScript)
 - **[company-prototype](https://github.com/hellomrma/company-prototype)** - 사내 프로토타입 (TypeScript)
 - **[lunch-roullet](https://github.com/hellomrma/lunch-roullet)** - 점심 메뉴 룰렛 (TypeScript)
@@ -65,7 +64,6 @@
   <summary>저장소 목록 보기 (35개)</summary>
 
   **웹 프로젝트**
-  - [remix-framework](https://github.com/hellomrma/remix-framework) - TypeScript
   - [company-prototype](https://github.com/hellomrma/company-prototype) - TypeScript
   - [korea-holiday](https://github.com/hellomrma/korea-holiday) - TypeScript
   - [lunch-roullet](https://github.com/hellomrma/lunch-roullet) - TypeScript
