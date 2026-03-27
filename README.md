@@ -36,6 +36,7 @@ I'm a frontend developer who believes great web experiences start with a solid u
 **Tooling**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white)
 
 ---
@@ -44,12 +45,11 @@ I'm a frontend developer who believes great web experiences start with a solid u
 
 | Project | Description | Stack |
 |---|---|---|
+| [tube-player](https://github.com/hellomrma/tube-player) | Custom YouTube player library — popup & inline modes, ~7KB gzipped, framework-agnostic | JavaScript / Vite |
+| [company-prototype](https://github.com/hellomrma/company-prototype) | Multilingual corporate website with SEO optimization and responsive design | Next.js 16 / React 19 / TypeScript |
 | [korea-holiday](https://github.com/hellomrma/korea-holiday) | Korean public holiday data library | TypeScript |
-| [company-prototype](https://github.com/hellomrma/company-prototype) | In-house UI prototype | TypeScript |
-| [lunch-roullet](https://github.com/hellomrma/lunch-roullet) | Lunch menu roulette app | TypeScript |
-| [web-game-v1](https://github.com/hellomrma/web-game-v1) | Browser-based game | JavaScript |
-| [social-embed](https://github.com/hellomrma/social-embed) | Social media embed utility | TypeScript |
-| [resume](https://github.com/hellomrma/resume) | Online resume | HTML |
+| [web-editor-test](https://github.com/hellomrma/web-editor-test) | Custom rich text editor — tables, images, source mode, Korean font support | React / TipTap / Vite |
+| [resume](https://github.com/hellomrma/resume) | Online portfolio — semantic HTML, accessibility, multi-theme support | HTML / CSS |
 
 ---
 
@@ -60,16 +60,16 @@ Making small games for fun with Unity.
 <details>
   <summary>View game projects</summary>
 
-  | Project | Description | Stack |
-  |---|---|---|
-  | [unity-dinorun3d](https://github.com/hellomrma/unity-dinorun3d) | Dino runner 3D | ShaderLab |
-  | [unity-dinorun2d](https://github.com/hellomrma/unity-dinorun2d) | Dino runner 2D | ShaderLab |
-  | [unity-applecatch](https://github.com/hellomrma/unity-applecatch) | Apple catch game | C# |
-  | [unity-bamsongi](https://github.com/hellomrma/unity-bamsongi) | Bamsongi game | C# |
-  | [unity-catEscape](https://github.com/hellomrma/unity-catEscape) / [catEscape2](https://github.com/hellomrma/unity-catEscape2) | Cat escape series | C# |
-  | [unity-climbcloud](https://github.com/hellomrma/unity-climbcloud) | Cloud climbing game | C# |
-  | [unity-swipecar](https://github.com/hellomrma/unity-swipecar) | Swipe car game | HTML |
-  | [unity-roulette](https://github.com/hellomrma/unity-roulette) | Roulette game | C# |
+  | Project | Stack |
+  |---|---|
+  | [unity-dinorun3d](https://github.com/hellomrma/unity-dinorun3d) | ShaderLab |
+  | [unity-dinorun2d](https://github.com/hellomrma/unity-dinorun2d) | ShaderLab |
+  | [unity-applecatch](https://github.com/hellomrma/unity-applecatch) | C# |
+  | [unity-bamsongi](https://github.com/hellomrma/unity-bamsongi) | C# |
+  | [unity-catEscape](https://github.com/hellomrma/unity-catEscape) / [catEscape2](https://github.com/hellomrma/unity-catEscape2) | C# |
+  | [unity-climbcloud](https://github.com/hellomrma/unity-climbcloud) | C# |
+  | [unity-swipecar](https://github.com/hellomrma/unity-swipecar) | HTML |
+  | [unity-roulette](https://github.com/hellomrma/unity-roulette) | C# |
 
 </details>
 
@@ -78,19 +78,23 @@ Making small games for fun with Unity.
 ## All Repositories
 
 <details>
-  <summary>View all repositories (35)</summary>
+  <summary>View all repositories</summary>
 
   **Web Projects**
+  - [tube-player](https://github.com/hellomrma/tube-player) — JavaScript
   - [company-prototype](https://github.com/hellomrma/company-prototype) — TypeScript
   - [korea-holiday](https://github.com/hellomrma/korea-holiday) — TypeScript
+  - [web-editor-test](https://github.com/hellomrma/web-editor-test) — JavaScript
+  - [resume](https://github.com/hellomrma/resume) — HTML
   - [lunch-roullet](https://github.com/hellomrma/lunch-roullet) — TypeScript
   - [social-embed](https://github.com/hellomrma/social-embed) — TypeScript
+  - [nuxtjs-test](https://github.com/hellomrma/nuxtjs-test) — Vue
   - [web-game-v1](https://github.com/hellomrma/web-game-v1) — JavaScript
-  - [web-editor-test](https://github.com/hellomrma/web-editor-test) — JavaScript
   - [playgrounder-dev](https://github.com/hellomrma/playgrounder-dev) — HTML
   - [issue-automaking](https://github.com/hellomrma/issue-automaking) — CSS
-  - [resume](https://github.com/hellomrma/resume) — HTML
-  - [nuxtjs-test](https://github.com/hellomrma/nuxtjs-test) — Vue
+  - [iui-putyourhandsup](https://github.com/hellomrma/iui-putyourhandsup) — CSS
+  - [ia](https://github.com/hellomrma/ia) — HTML
+  - [hellomrma.github.io](https://github.com/hellomrma/hellomrma.github.io) — HTML
 
   **Unity Games (Hobby)**
   - [unity-dinorun3d](https://github.com/hellomrma/unity-dinorun3d) — ShaderLab
@@ -107,21 +111,12 @@ Making small games for fun with Unity.
   - [rust-playground](https://github.com/hellomrma/rust-playground) — Rust
   - [csharp-tutorials](https://github.com/hellomrma/csharp-tutorials) — TypeScript
   - [unity-csharp-lesson](https://github.com/hellomrma/unity-csharp-lesson) — C#
-  - [unity-lesson](https://github.com/hellomrma/unity-lesson)
-  - [playground-es6](https://github.com/hellomrma/playground-es6) — Shell
-  - [playground-typescript](https://github.com/hellomrma/playground-typescript) — JavaScript
   - [playground-react](https://github.com/hellomrma/playground-react) — JavaScript
+  - [playground-typescript](https://github.com/hellomrma/playground-typescript) — JavaScript
+  - [playground-es6](https://github.com/hellomrma/playground-es6) — JavaScript
 
-  **Boilerplates & Tooling**
+  **Boilerplates**
   - [gulp-boilerplate-nodejs8](https://github.com/hellomrma/gulp-boilerplate-nodejs8)
-  - [gulp-boilerplate-simple-nodejs8](https://github.com/hellomrma/gulp-boilerplate-simple-nodejs8)
-  - [gulp-boilerplate-nodejs12](https://github.com/hellomrma/gulp-boilerplate-nodejs12)
-  - [gulp-boilerplate-es6](https://github.com/hellomrma/gulp-boilerplate-es6) — SCSS
-
-  **Others**
-  - [hellomrma.github.io](https://github.com/hellomrma/hellomrma.github.io) — HTML
-  - [iui-putyourhandsup](https://github.com/hellomrma/iui-putyourhandsup) — CSS
-  - [ia](https://github.com/hellomrma/ia) — HTML
 
   [View all repositories →](https://github.com/hellomrma?tab=repositories)
 </details>
