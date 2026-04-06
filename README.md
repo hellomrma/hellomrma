@@ -61,8 +61,9 @@ Things I find genuinely interesting and keep coming back to:
 - Web Performance — Core Web Vitals, INP, rendering pipelines, bundle analysis
 - Accessibility — semantic HTML, ARIA patterns, keyboard navigation
 
-**Languages & Runtimes**
-- Rust — systems thinking, ownership model, WebAssembly target
+**Frameworks & Libraries**
+- React — component architecture, hooks, server vs. client components
+- Next.js — App Router, RSC, streaming, edge rendering
 - TypeScript — type-level programming, utility types, strict mode patterns
 
 **AI & Tooling**
