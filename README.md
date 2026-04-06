@@ -46,80 +46,31 @@ I'm a frontend developer who believes great web experiences start with a solid u
 | Project | Description | Stack |
 |---|---|---|
 | [tube-player](https://github.com/hellomrma/tube-player) | Custom YouTube player library — popup & inline modes, ~7KB gzipped, framework-agnostic | JavaScript / Vite |
-| [company-prototype](https://github.com/hellomrma/company-prototype) | Multilingual corporate website with SEO optimization and responsive design | Next.js 16 / React 19 / TypeScript |
+| [weather](https://github.com/hellomrma/weather) | Real-time weather app with geolocation, 5-day forecast, and Canvas-based animated backgrounds | Next.js 16 / TypeScript / Tailwind CSS v4 |
 | [korea-holiday](https://github.com/hellomrma/korea-holiday) | Korean public holiday data library | TypeScript |
-| [web-editor-test](https://github.com/hellomrma/web-editor-test) | Custom rich text editor — tables, images, source mode, Korean font support | React / TipTap / Vite |
-| [resume](https://github.com/hellomrma/resume) | Online portfolio — semantic HTML, accessibility, multi-theme support | HTML / CSS |
+| [harness-100](https://github.com/hellomrma/harness-100) | 100 production-grade Claude Code agent team harnesses across 10 domains | Claude Code / Markdown |
 
 ---
 
-## Hobby: Game Dev with Unity
+## Interests & Exploration
 
-Making small games for fun with Unity.
+Things I find genuinely interesting and keep coming back to:
 
-<details>
-  <summary>View game projects</summary>
+**Web Platform**
+- Modern CSS — container queries, cascade layers, `@starting-style`, scroll-driven animations
+- Web Performance — Core Web Vitals, INP, rendering pipelines, bundle analysis
+- Accessibility — semantic HTML, ARIA patterns, keyboard navigation
 
-  | Project | Stack |
-  |---|---|
-  | [unity-dinorun3d](https://github.com/hellomrma/unity-dinorun3d) | ShaderLab |
-  | [unity-dinorun2d](https://github.com/hellomrma/unity-dinorun2d) | ShaderLab |
-  | [unity-applecatch](https://github.com/hellomrma/unity-applecatch) | C# |
-  | [unity-bamsongi](https://github.com/hellomrma/unity-bamsongi) | C# |
-  | [unity-catEscape](https://github.com/hellomrma/unity-catEscape) / [catEscape2](https://github.com/hellomrma/unity-catEscape2) | C# |
-  | [unity-climbcloud](https://github.com/hellomrma/unity-climbcloud) | C# |
-  | [unity-swipecar](https://github.com/hellomrma/unity-swipecar) | HTML |
-  | [unity-roulette](https://github.com/hellomrma/unity-roulette) | C# |
+**Languages & Runtimes**
+- Rust — systems thinking, ownership model, WebAssembly target
+- TypeScript — type-level programming, utility types, strict mode patterns
 
-</details>
+**AI & Tooling**
+- Claude Code & agent workflows — building multi-agent harnesses, prompt engineering
+- LLM-assisted development — integrating AI into everyday dev workflow
 
----
-
-## All Repositories
-
-<details>
-  <summary>View all repositories</summary>
-
-  **Web Projects**
-  - [tube-player](https://github.com/hellomrma/tube-player) — JavaScript
-  - [company-prototype](https://github.com/hellomrma/company-prototype) — TypeScript
-  - [korea-holiday](https://github.com/hellomrma/korea-holiday) — TypeScript
-  - [web-editor-test](https://github.com/hellomrma/web-editor-test) — JavaScript
-  - [resume](https://github.com/hellomrma/resume) — HTML
-  - [lunch-roullet](https://github.com/hellomrma/lunch-roullet) — TypeScript
-  - [social-embed](https://github.com/hellomrma/social-embed) — TypeScript
-  - [nuxtjs-test](https://github.com/hellomrma/nuxtjs-test) — Vue
-  - [web-game-v1](https://github.com/hellomrma/web-game-v1) — JavaScript
-  - [playgrounder-dev](https://github.com/hellomrma/playgrounder-dev) — HTML
-  - [issue-automaking](https://github.com/hellomrma/issue-automaking) — CSS
-  - [iui-putyourhandsup](https://github.com/hellomrma/iui-putyourhandsup) — CSS
-  - [ia](https://github.com/hellomrma/ia) — HTML
-  - [hellomrma.github.io](https://github.com/hellomrma/hellomrma.github.io) — HTML
-
-  **Unity Games (Hobby)**
-  - [unity-dinorun3d](https://github.com/hellomrma/unity-dinorun3d) — ShaderLab
-  - [unity-dinorun2d](https://github.com/hellomrma/unity-dinorun2d) — ShaderLab
-  - [unity-applecatch](https://github.com/hellomrma/unity-applecatch) — C#
-  - [unity-bamsongi](https://github.com/hellomrma/unity-bamsongi) — C#
-  - [unity-catEscape](https://github.com/hellomrma/unity-catEscape) — C#
-  - [unity-catEscape2](https://github.com/hellomrma/unity-catEscape2) — HTML
-  - [unity-climbcloud](https://github.com/hellomrma/unity-climbcloud) — C#
-  - [unity-swipecar](https://github.com/hellomrma/unity-swipecar) — HTML
-  - [unity-roulette](https://github.com/hellomrma/unity-roulette) — C#
-
-  **Learning & Experiments**
-  - [rust-playground](https://github.com/hellomrma/rust-playground) — Rust
-  - [csharp-tutorials](https://github.com/hellomrma/csharp-tutorials) — TypeScript
-  - [unity-csharp-lesson](https://github.com/hellomrma/unity-csharp-lesson) — C#
-  - [playground-react](https://github.com/hellomrma/playground-react) — JavaScript
-  - [playground-typescript](https://github.com/hellomrma/playground-typescript) — JavaScript
-  - [playground-es6](https://github.com/hellomrma/playground-es6) — JavaScript
-
-  **Boilerplates**
-  - [gulp-boilerplate-nodejs8](https://github.com/hellomrma/gulp-boilerplate-nodejs8)
-
-  [View all repositories →](https://github.com/hellomrma?tab=repositories)
-</details>
+**Game Dev (Hobby)**
+- Unity — C# scripting, 2D/3D mechanics, shader basics
 
 ---
 
